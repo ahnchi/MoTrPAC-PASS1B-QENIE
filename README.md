@@ -1,0 +1,6 @@
+# MoTrPAC-PASS1B-QENIE
+
+# ABSTRACT
+#
+Exercise induces organism-wide molecular adaptations, partly mediated by humoral factors released in response to acute and chronic physical activity. However, the extent and specificity of endocrine effects from training-induced secreted factors remain unclear. Here, we applied systems genetics approaches to quantify inter-organ endocrine networks using multi-tissue transcriptomics and proteomics data collected from endurance-trained rats in The Molecular Transducers of Physical Activity Consortium (MoTrPAC). Eight weeks of endurance training significantly altered both the magnitude and specificity of endocrine effects across multiple origin-target tissue pairs. Subcutaneous white adipose tissue emerged as a key endocrine regulator impacted by training, while extracellular matrix-derived factors were identified as globally regulated secretory features in trained vs sedentary animals. Notably, secretory Wnt signaling factors were identified as key mediators of exercise-induced endocrine adaptations in multiple tissues. Our systems genetics framework provides an unprecedented atlas of inter-organ communication significantly remodeled by endurance exercise, serving as a valuable resource for novel exerkine discovery.
+
